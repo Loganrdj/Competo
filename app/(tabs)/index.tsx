@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-
+import 'react-native-reanimated';
 import EditScreenInfo from '@/components/EditScreenInfo';
 import { Text, View } from '@/components/Themed';
 
